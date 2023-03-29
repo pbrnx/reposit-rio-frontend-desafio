@@ -1,1 +1,1 @@
-# reposit-rio-frontend-desafio
+# repositorio-frontend-desafio
